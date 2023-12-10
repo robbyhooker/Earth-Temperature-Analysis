@@ -29,7 +29,7 @@ The project utilizes data from [www.berkeleyearth.org](https://berkeleyearth.org
 - pmdarima
 
 ## Report
-- Included in the project files is a summary paper written about the analysis. This paper is not not academic research. 
+- Included in the project files is a summary paper written about the analysis. This paper is not academic research. 
 
 **Note:**
 This project was solely for personal understanding and educational purposes. Feel free to explore, learn, and modify the code for your own understanding. 
