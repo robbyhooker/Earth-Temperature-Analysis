@@ -8,6 +8,7 @@ This project is a personal exploration of climate change data through visualizat
 - [Features](#features)
 - [Data Sources](#data-sources)
 - [Technologies Used](#technologies-used)
+- [Report (Paper)](#report)
 
 ## Introduction
 Climate change is a critical global issue, and this project aims to analyze climate-related data to better understand trends and patterns over time. Through visualizations and time series regression analysis, I hope to learn, and hopefully teach others, about the data behind of climate change. 
@@ -26,6 +27,9 @@ The project utilizes data from [www.berkeleyearth.org](https://berkeleyearth.org
 - Folium 
 - Statsmodels
 - pmdarima
+
+## Report
+- Included in the project files is a summary paper written about the analysis. This paper is not not academic research. 
 
 **Note:**
 This project was solely for personal understanding and educational purposes. Feel free to explore, learn, and modify the code for your own understanding. 
