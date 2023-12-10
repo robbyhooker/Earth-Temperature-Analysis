@@ -27,7 +27,7 @@ The project utilizes data from [www.berkeleyearth.org](https://berkeleyearth.org
 - Statsmodels
 - pmdarima
 
-**Note:** ## License
+**Note:**
 This project was solely for personal understanding and educational purposes. Feel free to explore, learn, and modify the code for your own understanding. 
 
 For any questions or inquiries, please contact [rhooker@go.olemiss.edu](mailto:rhooker@go.olemiss.edu).
